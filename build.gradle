@@ -17,7 +17,7 @@ def getVersionName = { String workTree ->
     }
     return stdout.toString().trim()
 }
-
+logging.level = LogLevel.DEBUG
 project.ext.mcversion = "1.10.2"
 project.ext.korlibversion = project.ext.mcversion + "-0.2.0"
 version = project.ext.mcversion + "-" + getVersionName("${project.projectDir}")

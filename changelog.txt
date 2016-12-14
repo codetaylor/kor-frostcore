@@ -1,0 +1,7 @@
+0.1.0
+  * Removed scattered features (SwampHut, Igloo, DesertPyramid, JunglePyramid)
+  * Removed strongholds, ocean monuments, villages, mineshafts
+  * Replaced lava in caves with packed ice
+  * Replaced water lakes and lava lakes with ice
+  * Removed chunk population for fire, dungeons and animals
+  * Removed swamp hut and ocean monument creature spawns
