@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ctkorfrostcore",
+  "name": "CTKor FrostCore",
+  "description": "Custom modifications for the FrostCore modpack.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/codetaylor/kor-frostcore",
+  "updateUrl": "",
+  "authorList": ["codetaylor"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["ctkorlib"]
+}
+]
